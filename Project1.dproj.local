@@ -2,9 +2,13 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>1899.12.30 00:00:00.000.705,=C:\Users\студ.K105-08\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2019.04.29 13:34:52.583,=C:\Users\студ.K105-08\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2019.04.29 13:35:07.147,C:\Users\студ.K105-08\Desktop\меню\Unit1.pas=C:\Users\студ.K105-08\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2019.04.29 13:35:07.147,C:\Users\студ.K105-08\Desktop\меню\Unit1.dfm=C:\Users\студ.K105-08\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2019.04.29 13:35:10.882,C:\Users\студ.K105-08\Desktop\меню\Project1.dproj=C:\Users\студ.K105-08\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.147,C:\Users\студ.K105-08\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\студ.K105-08\Desktop\меню\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.147,C:\Users\студ.K105-08\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\студ.K105-08\Desktop\меню\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.583,=C:\Users\студ.K105-08\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.882,C:\Users\студ.K105-08\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\студ.K105-08\Desktop\меню\Project1.dproj</Transaction>
+    <Transaction>2019.04.29 13:44:16.899,=C:\Users\miha\Desktop\Menu\Unit2.pas</Transaction>
+    <Transaction>2019.04.29 13:48:18.715,C:\Users\miha\Desktop\Menu\MainUnit.pas=C:\Users\miha\Desktop\Menu\Unit2.pas</Transaction>
+    <Transaction>2019.04.29 13:48:22.553,=C:\Users\miha\Desktop\Menu\Unit2.pas</Transaction>
+    <Transaction>2019.04.29 13:48:52.681,C:\Users\miha\Desktop\Menu\SettingsUnit.pas=C:\Users\miha\Desktop\Menu\Unit2.pas</Transaction>
   </Transactions>
 </BorlandProject>

@@ -1,0 +1,12 @@
+unit SettingsUnit;
+
+interface
+
+type
+settings = class
+
+end;
+
+implementation
+
+end.
