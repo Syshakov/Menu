@@ -1,0 +1,11 @@
+unit MainUnit;
+
+interface
+type
+  main = class
+
+end;
+
+implementation
+
+end.
